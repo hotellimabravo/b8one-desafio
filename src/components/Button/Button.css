@@ -1,0 +1,67 @@
+.UIButton {
+    background-color: #40B25C;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 24px;
+
+
+
+    position: static;
+    width: 240px;
+    height: 48px;
+    left: 32px;
+    top: 488px;
+
+    /* green/400 */
+
+  
+    border-radius: 5px;
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 2;
+    align-self: center;
+    flex-grow: 0;
+    margin: 32px 0px;
+    border: none;
+}
+
+.UIButton:hover {
+
+    background: #1C6C3E;
+     border-radius: 5px;
+
+}
+
+.buttontitle {
+    position: static;
+    width: 91px;
+    height: 24px;
+    left: 74.5px;
+    top: 12px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    letter-spacing: -0.005em;
+    text-transform: uppercase;
+
+    /* grayscale/0 */
+
+    color: #FFFFFF;
+
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+}

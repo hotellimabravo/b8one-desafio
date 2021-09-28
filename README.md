@@ -37,7 +37,7 @@ Obs. Cada um  dos dois produtos deve ter o comportamento de troca de label do bo
 
 ### Conclusão
 
-Minhas considerações finais a respeito do desafio é que apesar de algumas coisas terem faltado para a conclusão em 100% do desafio eu estou contente com meu desempenho, e quero agradecer a oportunidade que foi dada em participar desse processo de seleção da b8one.
+Minhas considerações finais a respeito do desafio são que apesar de algumas coisas terem faltado para a conclusão em 100% do desafio eu estou contente com meu desempenho, e quero agradecer a oportunidade que foi dada em participar desse processo de seleção da b8one.
 
 Sei que a jornada de um desenvolvedor é de constante aprendizado e isso me motiva muito. 
 
